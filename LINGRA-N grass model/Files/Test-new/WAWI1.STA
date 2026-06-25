@@ -1,0 +1,19 @@
+
+
+
+*** RESULTS OF GRASS GROWTH MODEL LINGRA *** SUMMARY OF OUTPUT FOR GRASS GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: WAWI1, Station= WAGE , Soil=   1, Crop=   1, Irr.=   1, IOPT=   1, Runof= 0.00, CO2= 370.
+ Wageningen, irrig.,permanent grass, RUE=3.0                                     
+
+
+YEAR    PL   EMERG HALT    WLVG     WLVD     WRE  GRAS     YIELD  TADRW  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT   NLIV   NLOSS   NUE    TRANRF  NNI  
+1986     0     1   365      516.   2406.      0.  15133.  15330.  18056. 1129.  1.60  -20.  722.  149.   400.  333.    0.  180.  3.29  581.1   81.8  508.9   34.2   1.00   1.00
+1987     0     1   365      469.   2397.      0.  14882.  15031.  17747. 1008.  1.76  -20.  834.  132.   344.  379.    0.   40.  3.73  574.9   80.2  504.3   33.9   1.00   1.00
+
+ MEANS over   2 years  :
+         0.    1.  365.     493.   2402.      0.  15008.  15180.  17902. 1069.  1.68  -20.  778.  140.   372.  356.    0.  110.  3.51  578.0   81.0  506.6   34.1   1.00   1.00
+ STANDARD DEVIATIONS  :
+         0.    0.    0.       0.      0.      0.      0.      0.      0.    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0      0.0     0.0     0.0     0.0     0.0     0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0   0.00   0.00

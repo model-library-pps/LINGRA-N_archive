@@ -1,0 +1,57 @@
+
+
+
+*** RESULTS OF GRASS GROWTH MODEL LINGRA *** SUMMARY OF OUTPUT FOR GRASS GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: WAGI1, Station= WAGE , Soil=   1, Crop=   1, Irr.=   1, IOPT=   1, Runof= 0.00, CO2= 370.
+ Wageningen, irrig., permanent grass, RUE=3.0                                    
+
+
+YEAR    PL   EMERG HALT    WLVG     WLVD     WRE  GRAS     YIELD  TADRW  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT   NLIV   NLOSS   NUE    TRANRF  NNI  
+1986     0     1   365      516.   2406.      0.  15133.  15330.  18056. 1129.  1.60  -20.  722.  149.   400.  333.    0.  180.  3.29  581.1   81.8  508.9   34.2   1.00   1.00
+1987     0     1   365      469.   2397.      0.  14882.  15031.  17747. 1008.  1.76    0.  834.  132.   344.  399.    0.   40.  3.73  574.9   80.2  504.3   33.9   1.00   1.00
+
+ MEANS over   2 years  :
+         0.    1.  365.     493.   2402.      0.  15008.  15180.  17902. 1069.  1.68  -10.  778.  140.   372.  366.    0.  110.  3.51  578.0   81.0  506.6   34.1   1.00   1.00
+ STANDARD DEVIATIONS  :
+         0.    0.    0.       0.      0.      0.      0.      0.      0.    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0      0.0     0.0     0.0     0.0     0.0     0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0   0.00   0.00
+
+
+
+*** RESULTS OF GRASS GROWTH MODEL LINGRA *** SUMMARY OF OUTPUT FOR GRASS GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: WAGI1, Station= WAGE , Soil=   1, Crop=   1, Irr.=   0, IOPT=   2, Runof= 0.00, CO2= 370.
+ Wageningen, rainfed, permanent grass, RUE=3.0                                   
+
+
+YEAR    PL   EMERG HALT    WLVG     WLVD     WRE  GRAS     YIELD  TADRW  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT   NLIV   NLOSS   NUE    TRANRF  NNI  
+1986     0     1   365      992.   3413.      0.   8894.   9566.  13299. 1158.  1.15  -20.  722.  121.   297.  285.    0.    0.  3.18  400.2   87.8  322.1   37.0   0.88   1.00
+1987     0     1   365      469.   2338.      0.  14675.  14824.  17482. 1005.  1.74    0.  834.  129.   339.  366.    0.    0.  3.73  566.2   79.5  496.4   33.9   1.00   1.00
+
+ MEANS over   2 years  :
+         0.    1.  365.     730.   2876.      0.  11784.  12195.  15390. 1082.  1.44  -10.  778.  125.   318.  325.    0.    0.  3.46  483.2   83.6  409.2   35.5   0.94   1.00
+ STANDARD DEVIATIONS  :
+         0.    0.    0.       0.      0.      0.      0.      0.      0.    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0      0.0     0.0     0.0     0.0     0.0     0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0   0.00   0.00
+
+
+
+*** RESULTS OF GRASS GROWTH MODEL LINGRA *** SUMMARY OF OUTPUT FOR GRASS GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: WAGI1, Station= WAGE , Soil=   1, Crop=   1, Irr.=   0, IOPT=   3, Runof= 0.00, CO2= 370.
+ Wageningen, N-limited, permanent grass, RUE=3.0                                 
+
+
+YEAR    PL   EMERG HALT    WLVG     WLVD     WRE  GRAS     YIELD  TADRW  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT   NLIV   NLOSS   NUE    TRANRF  NNI  
+1986     0     1   365        6.   3157.      0.   4843.   4843.   8006.  871.  0.92  -20.  722.  178.   222.  303.    0.    0.  2.01  198.0   21.6  186.1   43.0   0.87   0.59
+1987     0     1   365        4.   2739.      0.   4953.   4953.   7696.  713.  1.08    0.  834.  204.   242.  388.    0.    0.  1.72  198.0   20.7  186.9   41.2   1.00   0.48
+
+ MEANS over   2 years  :
+         0.    1.  365.       5.   2948.      0.   4898.   4898.   7851.  792.  1.00  -10.  778.  191.   232.  346.    0.    0.  1.86  198.0   21.1  186.5   42.1   0.93   0.53
+ STANDARD DEVIATIONS  :
+         0.    0.    0.       0.      0.      0.      0.      0.      0.    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0      0.0     0.0     0.0     0.0     0.0     0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0   0.00   0.00

@@ -1,0 +1,11 @@
+* RUNNAME  IYEAR INYEAR IDPL  IDEM   IFINIT STATR  SENSP   SENSV   SENSW   SENSR  SENST  CO   ISOIL ICROP  IOPT   IRRI  IOUT       WTRDIR        CONTW                             REMARK                                          CONTIN
+*'WAGI1'    1986   2     -99      1      364   'WAGE'   1.      1.       1.     1.     0.  370.   1     1      1      1    5          ''             'Y'         'Wageningen, irrig., permanent grass, RUE=3.0'                  'Y'
+*'WAGI1'    1986   2     -99      1      364   'WAGE'   1.      1.       1.     1.     0.  370.   1     1      2      0    5          ''             'Y'         'Wageningen, rainfed, permanent grass, RUE=3.0'                 'Y'
+*'WAGI1'    1986   2     -99      1      364   'WAGE'   1.      1.       1.     1.     0.  370.   1     1      3      0    5          ''             'Y'         'Wageningen, N-limited, permanent grass, RUE=3.0'               'N'
+'SEVI2'    1986   2     -99      1      364   'SEVI'   1.      1.       1.     1.     0.  370.   1     1      1      1    5          ''             'Y'         'Sevilla, irrig.,permanent grass, RUE=3.0'                      'Y'
+'SEVI2'    1986   2     -99      1      364   'SEVI'   1.      1.       1.     1.     0.  370.   1     1      2      0    5          ''             'Y'         'Sevilla, rainfed,permanent grass, RUE=3.0'                     'Y'
+'SEVI2'    1986   2     -99      1      364   'SEVI'   1.      1.       1.     1.     0.  370.   1     1      3      0    5          ''             'Y'         'Sevilla, N-limited.,permanent grass, RUE=3.0'                  'N'
+'BOLI3'    1982   2     -99      1      364   'BOLO'   1.      1.       1.     1.     0.  370.   1     1      1      1    5          ''             'N'         'Bologna, irrig.,permanent grass, RUE=3.0'                      'N'
+'WAMI1'    1969   8    120      1      165   'WAGE'   1.      1.       1.     1.     0.   370.   1     2      1      1     10          ''             'N'        'Wageningen, irrig.,grain maize var.202, RUE=4.5'                'Y'
+'WAMW2'    1969   8    120      1      165   'WAGE'   1.      1.       1.     1.     0.   370.   1     2      2      0     10          ''             'N'        'Wageningen, water limit.,grain maize var.202, RUE=4.5'          'Y'
+

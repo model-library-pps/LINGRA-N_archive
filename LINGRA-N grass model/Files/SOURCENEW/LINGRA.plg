@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: LINGRA - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Wolf008\LOCALS~1\Temp\RSP4C3.tmp" with contents
+[
+kernel32.lib /nologo /subsystem:console /incremental:no /pdb:"Debug/LINGRA.pdb" /debug /machine:I386 /out:"Debug/LINGRA.exe" /pdbtype:sept 
+".\Debug\CROPG.obj"
+".\Debug\DAILOUT.OBJ"
+".\Debug\INITP.OBJ"
+".\Debug\LINGRAN.obj"
+".\Debug\LINTULSBG.OBJ"
+".\Debug\STOUT.OBJ"
+".\Debug\SWEAF.OBJ"
+".\Debug\Timer.obj"
+".\Debug\WATBALS.OBJ"
+".\Debug\WEATHR.OBJ"
+"..\LIBRARY\LIBPOTATO\LIBPOTAT\Debug\LIBPOTAT.lib"
+]
+Creating command line "link.exe @C:\DOCUME~1\Wolf008\LOCALS~1\Temp\RSP4C3.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+LINGRA.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

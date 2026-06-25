@@ -1,0 +1,11 @@
+* RUNNAME  IYEAR INYEAR IDPL  IDEM   IFINIT STATR  SENSP   SENSV   SENSW   SENSR  SENST  CO   ISOIL ICROP  IOPT   IRRI  IOUT       WTRDIR           CONTW                           REMARK                                             CONTIN
+'SEVI1'    1987   2    -99      1      364   'SEVI'   1.      1.       1.     1.     0.   370.   1     1      1      1    1          ''             'Y'          'Sevilla, irrig.,permanent grass, RUE=3.0'                              'Y'
+'WAWI1'    1986   2    -99      1      364   'WAGE'   1.      1.       1.     1.     0.   370.   1     1      1      1    1          ''              'Y'          'Wageningen, irrig.,permanent grass, RUE=3.0'                          'N'
+'WAWW2'    1969   2    -99      1      330   'WAGE'   1.      1.       1.     1.     0.   370.   1     1      2      0    10          ''             'N'          'Wageningen, water lim., permanent grass, RUE=3.0'                     'Y'
+'WAWN3'    1969   2    -99      1      330   'WAGE'   1.      1.       1.     1.     0.   370.   1     1      3      0    10          ''             'N'          'Wageningen, water and N permament grass, RUE=3.0'                     'Y'
+'WAMI1'    1969   3    -99      1      365   'WAGE'   1.      1.       1.     1.     0.   550.   1     1      1      1    10          ''             'N'          'Wageningen, irrig.,permanent grass, RUE=3.0, high CO2'                'Y'
+'WAMW2'    1969   3    -99      1      365   'WAGE'   1.      1.       1.     1.     0.   550.   1     1      2      0    10          ''             'N'          'Wageningen, water limit.,permanent grass, RUE=3.0, high CO2'          'Y'
+'WAMN3'    1969   3    -99      1      365   'WAGE'   1.      1.       1.     1.     0.   550.   1     1      3      0    10          ''             'N'          'Wageningen, water and N limit., permamnet grass, RUE=3.0, high CO2'   'N'
+**'WAGW2'    1970     3    105   135    170   'WAGE'   1.      1.       1.     1.     0.   355.   2     2      1      0    20    'A:\WEATHER\'       'N'          'Wageningen, not-irrig., 15 cm soilw., mid var., RUE=3.0'              'N'
+
+                                              

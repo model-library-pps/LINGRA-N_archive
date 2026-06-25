@@ -1,0 +1,51 @@
+**
+** Management data file for use with LINGRAN model for grasland, March 2012
+**
+** Management type 1 - Permament grassland
+
+
+** Fertiliser N application 
+FERTAB  =   0.,    0.0,  !  kg N/ha
+           14.,    0.0,  ! as function of day number
+           15.,  120.0, 
+           16.,    0.0, 
+           17.,    0.0,
+          120.,    0.0,
+          121.,  120.0,
+          122.,    0.0,
+          123.,    0.0,
+          365.,    0.0
+
+** Recovery fraction of applied fertiliser N
+NRFTAB  =     0.,  0.70,  !  kg N uptake by the crop per kg fertilser-N applied
+             200., 0.70   !  as function of day number
+
+
+* Soil N mineralization
+NMINS   =    30.  !  total mineral soil N available at start of growth period [kg N/ha]
+RTMINS  =   0.025  ! fraction of soil mineral coming available per day [day-1]
+
+* irrigation water applied 
+IRRTAB   =   0., 0.0,  !  irrigation water applied per day [cm]
+             164.,0.0, !  as function of day number
+             165.,2.0,
+             166.,0.0,
+             200.,0.0,
+             201.,2.0,
+             202.,0.0,
+             220.,0.0,
+             221.,2.0,
+             222.,0.0,
+             365.,0.0 
+
+* Grass harvesting
+CLAI  =   0.8     ! remaining leaf area index after cutting [ha ha-1]  
+IMOPT =    1      ! indicates the mowing regime; 1 indicates mowing if WLVG > CWGHT,
+                  ! 2 indicates mowing if mowing date and LAI > CLAI, and otherwise no mowing 
+
+CWGHT =  1500.    !criterium weight for mowing [kg ha-1]
+
+MNDAT=   120.,  160.0, ! dates for mowing (JUlian day)
+         200.,  240.,
+         280.,  320.,
+         999.,  999. 

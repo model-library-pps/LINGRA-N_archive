@@ -1,0 +1,57 @@
+
+
+
+*** RESULTS OF GRASS GROWTH MODEL LINGRA *** SUMMARY OF OUTPUT FOR GRASS GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: SEVI2, Station= SEVI , Soil=   1, Crop=   1, Irr.=   1, IOPT=   1, Runof= 0.00, CO2= 370.
+ Sevilla, irrig.,permanent grass, RUE=3.0                                        
+
+
+YEAR    PL   EMERG HALT    WLVG     WLVD     WRE  GRAS     YIELD  TADRW  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT   NLIV   NLOSS   NUE    TRANRF  NNI  
+1986     0     1   365      839.   8033.      0.  16273.  16792.  25145. 2242.  1.12  -18.  415.  240.   796.  152.    0.  790.  2.43  707.4  116.7  600.4   39.9   1.00   1.00
+1987     0     1   365      553.   7796.      0.  16247.  16479.  24596. 2201.  1.12    3.  811.  259.   812.  482.    0.  740.  2.30  694.5  103.6  600.5   39.7   1.00   1.00
+
+ MEANS over   2 years  :
+         0.    1.  365.     696.   7915.      0.  16260.  16636.  24870. 2221.  1.12   -7.  613.  249.   804.  317.    0.  765.  2.36  700.9  110.1  600.4   39.8   1.00   1.00
+ STANDARD DEVIATIONS  :
+         0.    0.    0.       0.      0.      0.      0.      0.      0.    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0      0.0     0.0     0.0     0.0     0.0     0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0   0.00   0.00
+
+
+
+*** RESULTS OF GRASS GROWTH MODEL LINGRA *** SUMMARY OF OUTPUT FOR GRASS GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: SEVI2, Station= SEVI , Soil=   1, Crop=   1, Irr.=   0, IOPT=   2, Runof= 0.00, CO2= 370.
+ Sevilla, rainfed,permanent grass, RUE=3.0                                       
+
+
+YEAR    PL   EMERG HALT    WLVG     WLVD     WRE  GRAS     YIELD  TADRW  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT   NLIV   NLOSS   NUE    TRANRF  NNI  
+1986     0     1   365      129.   1729.      0.   8872.   8872.  10730.  993.  1.08   -5.  415.  148.   148.  114.    0.    0.  3.63  344.7   55.8  298.6   33.9   0.52   1.00
+1987     0     1   365      224.   2384.      0.   7684.   7684.  10292. 1071.  0.96  -11.  811.  204.   166.  430.    0.    0.  2.78  322.1   62.8  269.0   34.9   0.54   1.00
+
+ MEANS over   2 years  :
+         0.    1.  365.     177.   2056.      0.   8278.   8278.  10511. 1032.  1.02   -8.  613.  176.   157.  272.    0.    0.  3.20  333.4   59.3  283.8   34.4   0.53   1.00
+ STANDARD DEVIATIONS  :
+         0.    0.    0.       0.      0.      0.      0.      0.      0.    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0      0.0     0.0     0.0     0.0     0.0     0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0   0.00   0.00
+
+
+
+*** RESULTS OF GRASS GROWTH MODEL LINGRA *** SUMMARY OF OUTPUT FOR GRASS GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: SEVI2, Station= SEVI , Soil=   1, Crop=   1, Irr.=   0, IOPT=   3, Runof= 0.00, CO2= 370.
+ Sevilla, N-limited.,permanent grass, RUE=3.0                                    
+
+
+YEAR    PL   EMERG HALT    WLVG     WLVD     WRE  GRAS     YIELD  TADRW  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT   NLIV   NLOSS   NUE    TRANRF  NNI  
+1986     0     1   365      130.   2493.      0.   3627.   3627.   6250.  833.  0.75   -5.  415.  184.   112.  114.    0.    0.  2.11  152.1   36.7  125.0   45.1   0.55   0.84
+1987     0     1   365      225.   2110.      0.   3667.   3667.   6002.  778.  0.77  -11.  811.  247.   122.  431.    0.    0.  1.63  147.9   35.5  122.0   44.3   0.58   0.84
+
+ MEANS over   2 years  :
+         0.    1.  365.     177.   2302.      0.   3647.   3647.   6126.  805.  0.76   -8.  613.  215.   117.  273.    0.    0.  1.87  150.0   36.1  123.5   44.7   0.57   0.84
+ STANDARD DEVIATIONS  :
+         0.    0.    0.       0.      0.      0.      0.      0.      0.    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0      0.0     0.0     0.0     0.0     0.0     0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0   0.00   0.00
