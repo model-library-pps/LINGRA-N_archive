@@ -7,5 +7,5 @@ LINGRA.pdf
 **Articles**\
 [Bouman et al. (1996)](https://edepot.wur.nl/336784)\
 [Habekotté (1996)](https://edepot.wur.nl/210312)\
-[Habekotté (1997)](https://github.com/model-library-pps/LINGRA-N_archive/blob/main/download%20documents/background%20information/BarbaraHabekotte1997AB-dlo_PP.pdf)\
+[Habekotté (1997)](https://github.com/model-library-pps/LINGRA-N_archive/blob/main/download%20documents/background%20information/BarbaraHabekotte1997AB-dlo_PP.pdf)
 [Habekotté and Smid (1997)](https://edepot.wur.nl/346944)\
